@@ -7,11 +7,11 @@
 
 ## For Hire Vehicles (FHV)
 ![fhv1](./imgs/1_week.jpg)
-Figure. Weekday FHV trip per day between taxi zone in 2018 (over 100)
+<center> Figure. Weekday FHV trip per day between taxi zone in 2018 (over 100) </center>
 ![fhv2](./imgs/2_weekend.jpg)
-Figure. Weekend FHV trip per day between taxi zone in 2018 (over 100)
+<center> Figure. Weekend FHV trip per day between taxi zone in 2018 (over 100) </center>
 ![fhv3](./imgs/3_thematic.jpg)
-Figure. The number of internal FHV trip
+<center> Figure. The number of internal FHV trip </center>
 
 ## Synthetic Population
 - 
