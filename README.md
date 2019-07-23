@@ -24,7 +24,7 @@ Figure. The number of internal FHV trip
 ## Route suggestion
 - Suggested routes map are in the routes_map directory.
 - The methodology is as follows:
-![mk_route](./imgs/mk_route.jpg)
+![mk_route](./imgs/mk_route.png)
 
 ## Synthetic Population
 - 
