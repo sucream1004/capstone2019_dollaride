@@ -16,7 +16,7 @@ $ python acs2017_download.py [ACS ID] # It saves ACS data as ShapeFile.
 - Due to the size of the data, I used Postgresql to minimize memory usage.
 - Following figures are representing the numbef of trips between zones(Left: Weekday, Middle: Weekend, Right: Internal Trip)
 - The figure of trip in weekday and weekend is same.
-![fhv_pic](./imgs/fhv_pic.jpg)
+![fhv_pic](./imgs/fhv_pic.png)
 Figure: weekday trips; weekend trips; internal trips;
 ## Route suggestion
 - Suggested routes map are in the routes_map directory.
