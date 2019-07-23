@@ -14,13 +14,10 @@ $ python acs2017_download.py [ACS ID] # It saves ACS data as ShapeFile.
 ## For Hire Vehicles (FHV)
 - NYC OpenData offers yearly FHV data.
 - Due to the size of the data, I used Postgresql to minimize memory usage.
-![fhv1](./imgs/1_week.jpg)
-Figure. Weekday FHV trip per day between taxi zone in 2018 (over 100)
-![fhv2](./imgs/2_weekend.jpg)
-Figure. Weekend FHV trip per day between taxi zone in 2018 (over 100)
-![fhv3](./imgs/3_thematic.jpg)
-Figure. The number of internal FHV trip
-
+- Following figures are representing the numbef of trips between zones(Left: Weekday, Middle: Weekend, Right: Internal Trip)
+- The figure of trip in weekday and weekend is same.
+![fhv_pic](./imgs/fhv_pic.jpg)
+Figure: weekday trips; weekend trips; internal trips;
 ## Route suggestion
 - Suggested routes map are in the routes_map directory.
 - The methodology is as follows:
