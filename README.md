@@ -3,6 +3,7 @@
 
 ## Transit Desert
 - NYC Open Data and GTFS (Google's General Transit Feed Specifications) datasets
+- We will consider the closest subway station or MTA bus stop, and identify the distance from them to the centroid of the census tract. In terms of transportation demand estimation, population data was used (with a granularity of a census tract, as the most computationally small data available). After that, for the purpose of creating an index of each transportational zone, z-score of the distance variable (supply) and z-score of the population density variable (demand) was calculated.
 - Index  =  0.5 x Population_density + 0.4 x (-1) Distance from a Subway Stop + 0.1 x (-1) Distance from a Bus Stop
 ![transit_desert](./imgs/transit_desert.png)
 
