@@ -2,8 +2,10 @@
 ![dollaride](./imgs/dollaride.png)
 
 ## Transit Desert
-- Hi
-- Hi
+- NYC Open Data and GTFS (Google's General Transit Feed Specifications) datasets
+- Index  =  0.5 x Population_density + 0.4 x (-1) Distance from a Subway Stop + 0.1 x (-1) Distance from a Bus Stop
+![transit_desert](./imgs/transit_desert.png)
+
 
 ## For Hire Vehicles (FHV)
 - NYC OpenData offers yearly FHV data.
