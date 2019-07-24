@@ -6,14 +6,15 @@ The project identifies methodology for calculating transit deserts (transit-unde
 
 
 ## Transit Desert
-- Hi
-- Hi
+- Transit desert is obtained by calculating index based on census tract.
+![td](./imgs/transit_desert.png)
 
 ## For Hire Vehicles (FHV)
 - NYC OpenData offers yearly FHV data.
 - Due to the size of the data, I used Postgresql to minimize memory usage.
-- Following figures are representing the numbef of trips between zones(Left: Weekday, Middle: Weekend, Right: Internal Trip)
-- The figure of trip in weekday and weekend is same.
+- This map shows the for-hire-vehicle trips during the weekdays between different taxi zones within Queens, Brooklyn, Bronx, Staten Island, and Newark airport. 
+- The purple lines shown on the map represent the trips between different zones that have more than 100 trip counts, which can be regarded as popular routes for for-hire-vehicles on a taxi zone basis.
+- The wider the purple band is, the more trips there are on that route. For example, the trips between Jackson Heights and Astoria, Williamsburg and Bed-Stuy, as well as Bay Ridge and Bath Beach have large volume of trips represented by the wide stroke of purple bands. 
 ![fhv_pic](./imgs/fhv_pic.png)
 Figure: weekday trips; weekend trips; internal trips;
 ## Route suggestion
@@ -22,7 +23,7 @@ Figure: weekday trips; weekend trips; internal trips;
 ![mk_route](./imgs/mk_route.png)
 
 ## Synthetic Population
-- 
+-
 - 
 ![syn1](./imgs/syn1.png)
 ![syn2](./imgs/syn2.png)
