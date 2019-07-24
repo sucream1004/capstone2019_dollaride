@@ -28,7 +28,12 @@ Figure: weekday trips; weekend trips; internal trips;
 ![mk_route](./imgs/mk_route.png)
 
 ## Synthetic Population
--
-- 
+- The analysis on the synthetic population data reveal the travel pattern of the population in New York City in terms of the zone-to-zone travel basis. 
+- The picture on the upper left shows the ranking of taxi zones that has the highest number of trips originating from that particular zone, which include Crown Heights North, Flatbush/Ditmas Park, Borough Park, and Jackson Heights, etc, which are marked in darker blue color.
+- The picture on the upper left shows the ranking of taxi zones that has the highest number of trips ending in that particular zone, which include Crown Heights North, Flatbush/Ditmas Park, Borough Park, Flushing and Jackson Heights, etc, which are marked in darker blue color.
+- The next step of the analysis focused on zone-to-zone travel patterns.
+			§ For trips originating from Flatlands, Mill Basin, Canarsie, and Crown Heights North are popular destinations.
+			§ For trips originating from East New York, people tend to go to Howard Beach, Canarsie, and Downtown Brooklyn.
+			§ For trips originating from Crown Heights North, people like to go to Bushwick North, Prospect Park, as well as Flatlands.
 ![syn1](./imgs/syn1.png)
 ![syn2](./imgs/syn2.png)
