@@ -20,6 +20,9 @@ Figure: weekday trips; weekend trips; internal trips;
 ## Route suggestion
 - Suggested routes map are in the routes_map directory.
 - The methodology is as follows:
+1. Set the initial taxi zone
+2. Checking adjacent zones
+3. Select next zone based on the potential rider
 ![mk_route](./imgs/mk_route.png)
 
 ## Synthetic Population
