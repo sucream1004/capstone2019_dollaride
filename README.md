@@ -1,6 +1,10 @@
 # Capstone 2019 Dollaride Repo
 ![dollaride](./imgs/dollaride.png)
 
+ While New York City has developed public transportation networks provided by MTA, a huge number of people living in outer boroughs are left outside the networks. These people are living in “transit deserts” and have a strong demand for transportation means. Part of the demand is met by so-called “dollar vans” – a chain of thousands of privately owned commuter vans which run across the NYC. A startup called “Dollaride” connects drivers and passengers in these marginalized communities using an  innovative transportation technology.
+The project identifies methodology for calculating transit deserts (transit-underserved areas in terms of specific transit supply-demand equilibrium) in a large city. The methodology is based on earlier developed attitude by Jiao and Dillivan (2013), but some different parameters characterising a first-tier American city were suggested.  The outcome of the project is a map of transit deserts in NYC, based on a solid quantitative analysis and data. Another practical implication of the project is a list of new routes for Dollaride, which would benefit its passengers, drivers and NYC transportation authorities. 
+
+
 ## Transit Desert
 - Hi
 - Hi
